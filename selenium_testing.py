@@ -6,6 +6,8 @@ from selenium.webdriver.common.keys import Keys
 
 driver = webdriver.Chrome(r"C:\Users\user\PycharmProjects\Test\drivers\chromedriver.exe")
 
+#### Git example #########
+
 driver.set_page_load_timeout(10)
 driver.get("https://www.google.com")
 driver.find_element_by_name('q').send_keys("Facebook Login", Keys.ENTER)
