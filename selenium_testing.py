@@ -4,7 +4,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 from selenium.webdriver.common.keys import Keys
 
-driver = webdriver.Chrome(r"C:\Users\user\PycharmProjects\Test\drivers\chromedriver.exe")
+driver = webdriver.Chrome(executable_path=r"C:\Users\user\PycharmProjects\Test\drivers\chromedriver.exe")
 
 #### Git example #########
 

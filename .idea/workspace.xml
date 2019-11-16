@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a42fea25-0070-46e3-9a5a-7cb6daf1f6b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/selenium_test_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selenium_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_testing.py" afterDir="false" />
     </list>
@@ -51,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572696990302</updated>
     </task>
+    <task id="LOCAL-00001" summary="Sample commit">
+      <created>1572697965606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572697965606</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sample commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sample commit" />
   </component>
 </project>
